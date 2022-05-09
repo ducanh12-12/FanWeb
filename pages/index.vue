@@ -1,16 +1,16 @@
 <template>
   <div>
-   <navbar/>
+    <navbar />
   </div>
 </template>
 
 <script>
-import navbar from "./navbar.vue"
+import navbar from './navbar.vue'
 export default {
-  layout:'thumnail',
+  layout: 'thumnail',
   name: 'IndexPage',
-  components:{
-    navbar
+  components: {
+    navbar,
   },
 }
 </script>
