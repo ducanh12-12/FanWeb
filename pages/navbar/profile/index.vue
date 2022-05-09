@@ -22,6 +22,7 @@
     </div>
     <p v-for="(mes,i) in $store.getters.getAnn" :key="i"> {{mes.body}}</p>
     <div>ewhrfieusfhieufh</div>
+    <div>dfsdfsdfd</div>
   </div>
 </template>
 
