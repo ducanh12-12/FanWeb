@@ -21,6 +21,7 @@
       <h2 class="font-bold text-[1.6rem]">FanClub</h2>
     </div>
     <p v-for="(mes,i) in $store.getters.getAnn" :key="i"> {{mes.body}}</p>
+    <div>ewhrfieusfhieufh</div>
   </div>
 </template>
 
